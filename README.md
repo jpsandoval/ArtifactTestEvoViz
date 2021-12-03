@@ -117,24 +117,3 @@ In the same way Box2DLite image contains three examples to execute.
 cd Pharo-Windows
 Pharo.exe ..\Box2DLite.image
 ```
-### Experiment 2
-
-In the same way Box2DLite image contains three examples to execute.
-
-**MacOS**
-```
-./Pharo-OSX/Pharo.app/Contents/MacOS/Pharo Experiment2.image
-```
-**Linux**
-```
-./Pharo-Linux/pharo-ui Experiment2.image
-```
-**Windows**
-```
-cd Pharo-Windows
-Pharo.exe ..\Experiment2.image
-```
-
-After doing that the Pharo image will show a window similar to:
-
-<img src="Images/exp2.png" width="1000">
