@@ -171,3 +171,436 @@
 2021-01-25T13:27:14.082112-04:00 : there is not alternative factory method
 2021-01-25T13:27:14.083308-04:00 : there is not alternatives for the receiver
 2021-01-25T13:27:14.084547-04:00 : there is not alternatives for the receiver
+2023-08-30T14:50:20.783497-04:00 : Types required not exist in typeInfo
+2023-08-30T14:50:23.528178-04:00 : there is not alternative factory method
+2023-08-30T14:50:23.541926-04:00 : there is not alternative factory method
+2023-08-30T14:50:23.547681-04:00 : There is not an statement that could be created with the current arguments
+2023-08-30T14:50:23.671335-04:00 : there is not alternative factory method
+2023-08-30T14:50:23.682378-04:00 : there is not alternative factory method
+2023-08-30T14:50:23.690114-04:00 : there is not alternative factory method
+2023-08-30T14:50:23.73295-04:00 : there is not alternative factory method
+2023-08-30T14:50:23.736843-04:00 : there is not alternative factory method
+2023-08-30T14:50:23.737731-04:00 : There is not an statement that could be created with the current arguments
+2023-08-30T14:50:23.772135-04:00 : ClassMethodType of selector new cannot be applied at class: RxmPredicate
+2023-08-30T14:50:23.799394-04:00 : ClassMethodType of selector new cannot be applied at class: RxsRegex
+2023-08-30T14:50:26.233908-04:00 : ClassMethodType of selector new cannot be applied at class: RxmPredicate
+2023-08-30T14:50:26.29206-04:00 : ClassMethodType of selector new cannot be applied at class: RxmPredicate
+2023-08-30T14:50:26.298224-04:00 : Types required not exist in typeInfo
+2023-08-30T14:50:26.312849-04:00 : there is not alternative factory method
+2023-08-30T14:50:26.352806-04:00 : ClassMethodType of selector new cannot be applied at class: RxmPredicate
+2023-08-30T14:50:26.354427-04:00 : Types required not exist in typeInfo
+2023-08-30T14:50:26.378046-04:00 : ClassMethodType of selector new cannot be applied at class: RxmPredicate
+2023-08-30T14:55:15.85207-04:00 : there is not alternative factory method
+2023-08-30T14:55:15.863633-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:15.870567-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T14:55:15.875136-04:00 : there is not alternatives for the receiver
+2023-08-30T14:55:15.87801-04:00 : there is not alternatives for the receiver
+2023-08-30T14:55:15.889475-04:00 : there is not alternative factory method
+2023-08-30T14:55:15.91998-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:15.921265-04:00 : there is not alternatives for the receiver
+2023-08-30T14:55:15.921882-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:15.933321-04:00 : there is not alternative factory method
+2023-08-30T14:55:15.933986-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:15.934583-04:00 : there is not alternatives for the receiver
+2023-08-30T14:55:15.938559-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:15.943775-04:00 : there is not alternative factory method
+2023-08-30T14:55:15.944422-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T14:55:15.945502-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:15.946727-04:00 : there is not alternative factory method
+2023-08-30T14:55:15.94739-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:15.947951-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:15.950545-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T14:55:15.951182-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:15.951827-04:00 : There is not an statement that could be created with the current arguments
+2023-08-30T14:55:15.956056-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T14:55:15.957532-04:00 : there is not alternative factory method
+2023-08-30T14:55:15.959584-04:00 : there is not object besides target class
+2023-08-30T14:55:17.36066-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T14:55:17.412271-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:17.418971-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:17.437684-04:00 : there is not alternative factory method
+2023-08-30T14:55:17.441511-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:17.452431-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T14:55:17.454061-04:00 : there is not alternatives for the receiver
+2023-08-30T14:55:17.455591-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T14:55:17.45653-04:00 : there is not alternatives for the receiver
+2023-08-30T14:55:17.460493-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:17.462099-04:00 : there is not alternative factory method
+2023-08-30T14:55:17.462881-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:18.846312-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T14:55:18.860425-04:00 : there is not alternative factory method
+2023-08-30T14:55:18.902808-04:00 : there is not alternative factory method
+2023-08-30T14:55:18.921858-04:00 : there is not alternative factory method
+2023-08-30T14:55:18.949694-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T14:55:18.951589-04:00 : there is not alternatives for the receiver
+2023-08-30T14:55:18.953225-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:18.954428-04:00 : there is not alternatives for the receiver
+2023-08-30T14:55:18.955087-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T14:55:18.95575-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:20.377023-04:00 : there is not alternative factory method
+2023-08-30T14:55:20.514736-04:00 : there is not alternatives for the receiver
+2023-08-30T14:55:20.526522-04:00 : there is not alternative factory method
+2023-08-30T14:55:20.562713-04:00 : there is not alternatives for the receiver
+2023-08-30T14:55:20.566628-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:20.568258-04:00 : there is not alternatives for the receiver
+2023-08-30T14:55:20.56911-04:00 : there is not alternatives for the receiver
+2023-08-30T14:55:20.571163-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T14:55:20.581052-04:00 : there is not object besides target class
+2023-08-30T14:55:20.582818-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T14:55:20.583479-04:00 : there is not alternative factory method
+2023-08-30T14:55:21.884019-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T14:55:21.959954-04:00 : there is not alternative factory method
+2023-08-30T14:55:21.989533-04:00 : there is not object besides target class
+2023-08-30T14:55:22.052948-04:00 : there is not object besides target class
+2023-08-30T14:55:22.06957-04:00 : there is not alternatives for the receiver
+2023-08-30T14:55:22.072511-04:00 : there is not alternative factory method
+2023-08-30T15:03:01.686339-04:00 : there is not alternative factory method
+2023-08-30T15:03:01.717429-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:01.728706-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T15:03:01.734522-04:00 : there is not alternatives for the receiver
+2023-08-30T15:03:01.737816-04:00 : there is not alternatives for the receiver
+2023-08-30T15:03:01.748128-04:00 : there is not alternative factory method
+2023-08-30T15:03:01.791048-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:01.792637-04:00 : there is not alternatives for the receiver
+2023-08-30T15:03:01.793221-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:01.808585-04:00 : there is not alternative factory method
+2023-08-30T15:03:01.809323-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:01.809916-04:00 : there is not alternatives for the receiver
+2023-08-30T15:03:01.814618-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:01.821276-04:00 : there is not alternative factory method
+2023-08-30T15:03:01.821964-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T15:03:01.823087-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:01.823621-04:00 : there is not alternative factory method
+2023-08-30T15:03:01.824146-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:01.824687-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:01.825278-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T15:03:01.825887-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:01.826694-04:00 : There is not an statement that could be created with the current arguments
+2023-08-30T15:03:01.83125-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T15:03:01.834563-04:00 : there is not alternative factory method
+2023-08-30T15:03:01.837104-04:00 : there is not object besides target class
+2023-08-30T15:03:03.394552-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T15:03:03.450544-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:03.45971-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:03.478844-04:00 : there is not alternative factory method
+2023-08-30T15:03:03.483898-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:03.515838-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T15:03:03.517323-04:00 : there is not alternatives for the receiver
+2023-08-30T15:03:03.520976-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T15:03:03.522101-04:00 : there is not alternatives for the receiver
+2023-08-30T15:03:03.526453-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:03.528187-04:00 : there is not alternative factory method
+2023-08-30T15:03:03.528961-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:04.898053-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T15:03:04.911953-04:00 : there is not alternative factory method
+2023-08-30T15:03:04.957036-04:00 : there is not alternative factory method
+2023-08-30T15:03:05.00093-04:00 : there is not alternative factory method
+2023-08-30T15:03:05.005033-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T15:03:05.007141-04:00 : there is not alternatives for the receiver
+2023-08-30T15:03:05.008194-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:05.008888-04:00 : there is not alternatives for the receiver
+2023-08-30T15:03:05.009478-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T15:03:05.010182-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:06.632817-04:00 : there is not alternative factory method
+2023-08-30T15:03:06.681695-04:00 : there is not alternatives for the receiver
+2023-08-30T15:03:06.689641-04:00 : there is not alternative factory method
+2023-08-30T15:03:06.720972-04:00 : there is not alternatives for the receiver
+2023-08-30T15:03:06.724916-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:06.727319-04:00 : there is not alternatives for the receiver
+2023-08-30T15:03:06.728173-04:00 : there is not alternatives for the receiver
+2023-08-30T15:03:06.72991-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T15:03:06.73971-04:00 : there is not object besides target class
+2023-08-30T15:03:06.741546-04:00 : There is no alternative for fieldAccessMessage of selector: lastLinkStack
+2023-08-30T15:03:06.742196-04:00 : there is not alternative factory method
+2023-08-30T15:03:08.150754-04:00 : There is no alternative for fieldAccessMessage of selector: firstLinkStack
+2023-08-30T15:03:08.193148-04:00 : there is not alternative factory method
+2023-08-30T15:03:08.21264-04:00 : there is not object besides target class
+2023-08-30T15:03:08.269335-04:00 : there is not object besides target class
+2023-08-30T15:03:08.284236-04:00 : there is not alternatives for the receiver
+2023-08-30T15:03:08.287423-04:00 : there is not alternative factory method
+2023-08-30T15:08:39.819083-04:00 : Types required not exist in typeInfo
+2023-08-30T15:08:42.597121-04:00 : there is not alternative factory method
+2023-08-30T15:08:42.611849-04:00 : there is not alternative factory method
+2023-08-30T15:08:42.617125-04:00 : There is not an statement that could be created with the current arguments
+2023-08-30T15:08:42.760112-04:00 : there is not alternative factory method
+2023-08-30T15:08:42.772069-04:00 : there is not alternative factory method
+2023-08-30T15:08:42.776974-04:00 : there is not alternative factory method
+2023-08-30T15:08:42.80641-04:00 : there is not alternative factory method
+2023-08-30T15:08:42.809779-04:00 : there is not alternative factory method
+2023-08-30T15:08:42.810546-04:00 : There is not an statement that could be created with the current arguments
+2023-08-30T15:08:42.846411-04:00 : ClassMethodType of selector new cannot be applied at class: RxmPredicate
+2023-08-30T15:08:42.873242-04:00 : ClassMethodType of selector new cannot be applied at class: RxsRegex
+2023-08-30T15:08:45.410159-04:00 : ClassMethodType of selector new cannot be applied at class: RxmPredicate
+2023-08-30T15:08:45.47117-04:00 : ClassMethodType of selector new cannot be applied at class: RxmPredicate
+2023-08-30T15:08:45.476368-04:00 : Types required not exist in typeInfo
+2023-08-30T15:08:45.488799-04:00 : there is not alternative factory method
+2023-08-30T15:08:45.587897-04:00 : ClassMethodType of selector new cannot be applied at class: RxmPredicate
+2023-08-30T15:08:45.595818-04:00 : Types required not exist in typeInfo
+2023-08-30T15:08:45.627804-04:00 : ClassMethodType of selector new cannot be applied at class: RxmPredicate
+2023-08-30T15:10:59.923409-04:00 : Types required not exist in typeInfo
+2023-08-30T15:11:03.195491-04:00 : there is not alternative factory method
+2023-08-30T15:11:03.22518-04:00 : there is not alternative factory method
+2023-08-30T15:11:03.234752-04:00 : there is not object besides target class
+2023-08-30T15:11:03.252576-04:00 : there is not object besides target class
+2023-08-30T15:11:03.267199-04:00 : there is not alternative factory method
+2023-08-30T15:11:05.869067-04:00 : there is not alternative factory method
+2023-08-30T15:11:06.002459-04:00 : there is not alternative factory method
+2023-08-30T15:11:06.090982-04:00 : there is object arguments
+2023-08-30T15:11:06.100136-04:00 : there is not alternative factory method
+2023-08-30T15:11:06.126215-04:00 : there is object arguments
+2023-08-30T15:11:08.869782-04:00 : there is not alternative factory method
+2023-08-30T15:11:08.922632-04:00 : there is object arguments
+2023-08-30T15:11:09.076254-04:00 : there is not alternative factory method
+2023-08-30T15:11:09.092381-04:00 : there is object arguments
+2023-08-30T15:11:09.100944-04:00 : there is object arguments
+2023-08-30T15:11:09.129434-04:00 : there is not alternative factory method
+2023-08-30T15:11:09.141228-04:00 : there is not alternative factory method
+2023-08-30T15:11:11.763251-04:00 : there is not alternative factory method
+2023-08-30T15:11:11.785978-04:00 : Types required not exist in typeInfo
+2023-08-30T15:11:11.799041-04:00 : there is not alternative factory method
+2023-08-30T15:11:11.964323-04:00 : there is not alternative factory method
+2023-08-30T15:11:11.976317-04:00 : there is object arguments
+2023-08-30T15:11:12.021425-04:00 : there is not alternative factory method
+2023-08-30T15:11:14.704797-04:00 : there is not alternative factory method
+2023-08-30T15:11:14.792764-04:00 : Types required not exist in typeInfo
+2023-08-30T15:11:14.812404-04:00 : there is not alternative factory method
+2023-08-30T15:11:14.820786-04:00 : there is not object besides target class
+2023-08-30T15:11:14.830236-04:00 : there is not alternative factory method
+2023-08-30T15:11:14.840621-04:00 : there is not alternative factory method
+2023-08-30T15:11:17.610332-04:00 : Execution error
+2023-08-30T15:11:17.771001-04:00 : Execution error
+2023-08-30T15:11:17.93211-04:00 : Execution error
+2023-08-30T15:11:17.973148-04:00 : Execution error
+2023-08-30T15:11:17.990458-04:00 : Execution error
+2023-08-30T15:11:18.003104-04:00 : Execution error
+2023-08-30T15:11:18.011169-04:00 : Execution error
+2023-08-30T15:11:18.017369-04:00 : Execution error
+2023-08-30T15:11:18.021659-04:00 : Execution error
+2023-08-30T15:11:18.026779-04:00 : Execution error
+2023-08-30T15:14:13.476306-04:00 : there is not object besides target class
+2023-08-30T15:14:14.907314-04:00 : there is not alternative factory method
+2023-08-30T15:14:14.970442-04:00 : There is no alternative for fieldAccessMessage of selector: v
+2023-08-30T15:14:15.027892-04:00 : there is not object besides target class
+2023-08-30T15:14:15.035638-04:00 : there is not alternative factory method
+2023-08-30T15:14:16.393529-04:00 : there is not alternatives for the receiver
+2023-08-30T15:14:16.412169-04:00 : There is no alternative for fieldAccessMessage of selector: v
+2023-08-30T15:14:16.422991-04:00 : there is not alternatives for the receiver
+2023-08-30T15:14:16.428509-04:00 : there is not alternative factory method
+2023-08-30T15:14:16.430572-04:00 : There is not an statement that could be created with the current arguments
+2023-08-30T15:14:16.530601-04:00 : there is not alternatives for the receiver
+2023-08-30T15:14:16.539705-04:00 : There is no alternative for fieldAccessMessage of selector: v
+2023-08-30T15:14:16.542833-04:00 : there is not alternative factory method
+2023-08-30T15:14:16.5595-04:00 : there is not object besides target class
+2023-08-30T15:14:18.090399-04:00 : There is no alternative for fieldAccessMessage of selector: v
+2023-08-30T15:14:18.132579-04:00 : there is not object besides target class
+2023-08-30T15:14:19.619797-04:00 : there is not object besides target class
+2023-08-30T15:14:19.659111-04:00 : There is no alternative for fieldAccessMessage of selector: v
+2023-08-30T15:14:19.68136-04:00 : there is not object besides target class
+2023-08-30T15:16:14.175463-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:14.196004-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:14.209985-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:14.215303-04:00 : there is not alternative factory method
+2023-08-30T15:16:14.284791-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:14.287394-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:14.299615-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:14.301524-04:00 : there is not alternative factory method
+2023-08-30T15:16:14.302941-04:00 : there is not alternative factory method
+2023-08-30T15:16:14.322054-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:14.323524-04:00 : there is not alternative factory method
+2023-08-30T15:16:14.3245-04:00 : there is not alternative factory method
+2023-08-30T15:16:14.325992-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:14.330017-04:00 : there is object arguments
+2023-08-30T15:16:14.337083-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:14.338561-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:14.34214-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:14.34455-04:00 : there is not alternative factory method
+2023-08-30T15:16:14.345561-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:14.346409-04:00 : there is not alternative factory method
+2023-08-30T15:16:14.347716-04:00 : there is not alternative message
+2023-08-30T15:16:14.348604-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:14.349261-04:00 : There is not an statement that could be created with the current arguments
+2023-08-30T15:16:14.357194-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:14.358739-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:14.366631-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:14.367761-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:14.368745-04:00 : there is not alternative factory method
+2023-08-30T15:16:14.369653-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:14.371467-04:00 : there is not alternative factory method
+2023-08-30T15:16:15.810875-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:15.831777-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:15.877378-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:15.883519-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:15.953338-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:15.956477-04:00 : there is not alternative factory method
+2023-08-30T15:16:15.957857-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:15.959182-04:00 : there is not alternative factory method
+2023-08-30T15:16:15.965081-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:15.967292-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:15.984032-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:15.985169-04:00 : There is no alternative for fieldAccessMessage of selector: bank
+2023-08-30T15:16:15.989615-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:15.991063-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:15.992112-04:00 : there is not alternative factory method
+2023-08-30T15:16:15.993007-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:16.001012-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:16.002307-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:17.558792-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:17.607837-04:00 : there is not alternative factory method
+2023-08-30T15:16:17.62804-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:17.637558-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:17.653062-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:17.656171-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:17.66816-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:17.669437-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:17.67799-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:17.697475-04:00 : ClassMethodType of selector new cannot be applied at class: TEVCustomer
+2023-08-30T15:16:17.70153-04:00 : there is not alternative factory method
+2023-08-30T15:16:17.70838-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:17.709924-04:00 : There is no alternative for fieldAccessMessage of selector: bank
+2023-08-30T15:16:17.714439-04:00 : there is not alternative factory method
+2023-08-30T15:16:17.718389-04:00 : there is not alternative factory method
+2023-08-30T15:16:17.719639-04:00 : there is not alternative factory method
+2023-08-30T15:16:19.164169-04:00 : there is not alternative message
+2023-08-30T15:16:19.346821-04:00 : There is no alternative for fieldAccessMessage of selector: bank
+2023-08-30T15:16:19.383913-04:00 : there is not alternatives for the receiver
+2023-08-30T15:16:20.926176-04:00 : there is not alternative factory method
+2023-08-30T15:16:20.937454-04:00 : there is not alternative factory method
+2023-08-30T15:16:20.956147-04:00 : there is not alternatives for the receiver
+2023-08-30T15:16:20.960632-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:20.963469-04:00 : there is not alternative factory method
+2023-08-30T15:16:20.983087-04:00 : there is not alternative factory method
+2023-08-30T15:16:20.999234-04:00 : there is not alternative factory method
+2023-08-30T15:16:21.015985-04:00 : there is not alternative factory method
+2023-08-30T15:16:22.440682-04:00 : there is not alternative factory method
+2023-08-30T15:16:22.585726-04:00 : there is not alternative factory method
+2023-08-30T15:16:22.596014-04:00 : there is not alternative factory method
+2023-08-30T15:16:22.620359-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:22.624905-04:00 : there is not alternative message
+2023-08-30T15:16:22.645249-04:00 : There is no alternative for fieldAccessMessage of selector: bank
+2023-08-30T15:16:22.655698-04:00 : There is no alternative for fieldAccessMessage of selector: bank
+2023-08-30T15:16:22.657512-04:00 : there is not alternative factory method
+2023-08-30T15:16:24.182234-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:24.215625-04:00 : there is not alternatives for the receiver
+2023-08-30T15:16:25.72979-04:00 : there is not alternatives for the receiver
+2023-08-30T15:16:25.776142-04:00 : there is not alternative factory method
+2023-08-30T15:16:25.793588-04:00 : there is not alternative factory method
+2023-08-30T15:16:25.839243-04:00 : there is not alternatives for the receiver
+2023-08-30T15:16:25.842726-04:00 : there is not alternative factory method
+2023-08-30T15:16:25.844936-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:25.856122-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:27.389063-04:00 : there is not alternative factory method
+2023-08-30T15:16:27.430564-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:27.496991-04:00 : There is no alternative for fieldAccessMessage of selector: bank
+2023-08-30T15:16:27.503689-04:00 : there is not alternatives for the receiver
+2023-08-30T15:16:27.516426-04:00 : there is not alternative factory method
+2023-08-30T15:16:27.538363-04:00 : there is not alternative factory method
+2023-08-30T15:16:29.043128-04:00 : there is not alternatives for the receiver
+2023-08-30T15:16:29.056568-04:00 : there is not alternative factory method
+2023-08-30T15:16:29.066405-04:00 : There is no alternative for fieldAccessMessage of selector: data
+2023-08-30T15:16:29.072147-04:00 : There is no alternative for fieldAccessMessage of selector: bank
+2023-08-30T15:16:29.13001-04:00 : There is no alternative for fieldAccessMessage of selector: bank
+2023-08-30T15:18:48.202846-04:00 : there is not alternative factory method
+2023-08-30T15:18:48.215492-04:00 : there is not alternatives for the receiver
+2023-08-30T15:18:49.626819-04:00 : there is not object besides target class
+2023-08-30T15:18:49.691267-04:00 : there is not alternative factory method
+2023-08-30T15:18:49.770925-04:00 : There is no alternative for fieldAccessMessage of selector: v
+2023-08-30T15:18:49.779707-04:00 : there is not alternative factory method
+2023-08-30T15:18:49.787011-04:00 : there is not alternatives for the receiver
+2023-08-30T15:18:49.791516-04:00 : there is not object besides target class
+2023-08-30T15:18:49.811048-04:00 : there is not object besides target class
+2023-08-30T15:18:49.847303-04:00 : There is no alternative for fieldAccessMessage of selector: v
+2023-08-30T15:18:49.85639-04:00 : There is no alternative for fieldAccessMessage of selector: v
+2023-08-30T15:18:51.199284-04:00 : there is not alternative factory method
+2023-08-30T15:18:51.220463-04:00 : There is no alternative for fieldAccessMessage of selector: v
+2023-08-30T15:18:51.354421-04:00 : there is not object besides target class
+2023-08-30T15:18:51.408153-04:00 : there is not object besides target class
+2023-08-30T15:18:52.916645-04:00 : there is not alternatives for the receiver
+2023-08-30T15:18:53.011355-04:00 : there is not alternative factory method
+2023-08-30T15:18:53.033932-04:00 : there is not alternative factory method
+2023-08-30T15:18:53.039859-04:00 : There is no alternative for fieldAccessMessage of selector: v
+2023-08-30T15:18:53.062729-04:00 : there is not alternative factory method
+2023-08-30T15:18:53.065279-04:00 : there is not alternatives for the receiver
+2023-08-30T15:18:54.439526-04:00 : There is no alternative for fieldAccessMessage of selector: v
+2023-08-30T15:18:54.735625-04:00 : There is no alternative for fieldAccessMessage of selector: v
+2023-08-30T15:20:44.68398-04:00 : Types required not exist in typeInfo
+2023-08-30T15:20:44.814108-04:00 : Types required not exist in typeInfo
+2023-08-30T15:20:44.820491-04:00 : Cannot create a field access message.
+2023-08-30T15:20:44.829312-04:00 : Types required not exist in typeInfo
+2023-08-30T15:20:44.83301-04:00 : Types required not exist in typeInfo
+2023-08-30T15:20:44.837066-04:00 : Types required not exist in typeInfo
+2023-08-30T15:20:44.838876-04:00 : Cannot create a field access message.
+2023-08-30T15:20:44.839461-04:00 : Types required not exist in typeInfo
+2023-08-30T15:20:44.84017-04:00 : Types required not exist in typeInfo
+2023-08-30T15:20:44.844508-04:00 : Types required not exist in typeInfo
+2023-08-30T15:20:44.84754-04:00 : Types required not exist in typeInfo
+2023-08-30T15:20:44.849273-04:00 : Types required not exist in typeInfo
+2023-08-30T15:20:44.851499-04:00 : Types required not exist in typeInfo
+2023-08-30T15:20:44.852907-04:00 : Types required not exist in typeInfo
+2023-08-30T15:20:47.006094-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:47.023145-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:47.033606-04:00 : there is not alternative factory method
+2023-08-30T15:20:47.044498-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:47.047108-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:47.048399-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:47.049002-04:00 : There is not an statement that could be created with the current arguments
+2023-08-30T15:20:47.053707-04:00 : there is not alternative factory method
+2023-08-30T15:20:47.054489-04:00 : There is not an statement that could be created with the current arguments
+2023-08-30T15:20:47.148612-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:47.189411-04:00 : there is not alternative factory method
+2023-08-30T15:20:47.193863-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:47.195565-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:47.19677-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:47.197291-04:00 : There is not an statement that could be created with the current arguments
+2023-08-30T15:20:47.204632-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:47.205826-04:00 : there is not alternative factory method
+2023-08-30T15:20:48.886865-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:48.983751-04:00 : there is not alternative factory method
+2023-08-30T15:20:49.000552-04:00 : there is not object besides target class
+2023-08-30T15:20:50.876471-04:00 : there is not object besides target class
+2023-08-30T15:20:50.911337-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:50.920845-04:00 : there is not alternative factory method
+2023-08-30T15:20:51.077679-04:00 : there is not alternative factory method
+2023-08-30T15:20:52.812364-04:00 : there is not alternative factory method
+2023-08-30T15:20:52.888759-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:52.905882-04:00 : there is not alternative factory method
+2023-08-30T15:20:52.91281-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:52.915937-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:52.919694-04:00 : there is not object besides target class
+2023-08-30T15:20:52.949023-04:00 : there is not alternative factory method
+2023-08-30T15:20:52.953476-04:00 : there is not alternatives for the receiver
+2023-08-30T15:20:52.954884-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:52.95642-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:52.987479-04:00 : there is not alternative factory method
+2023-08-30T15:20:52.988784-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:54.704693-04:00 : Types required not exist in typeInfo
+2023-08-30T15:20:54.825218-04:00 : There is no alternative for fieldAccessMessage of selector: identifier
+2023-08-30T15:20:54.836309-04:00 : Types required not exist in typeInfo
+2023-08-30T15:20:56.606566-04:00 : Execution error
+2023-08-30T15:20:56.705481-04:00 : Execution error
+2023-08-30T15:20:56.858827-04:00 : Execution error
+2023-08-30T15:20:56.890519-04:00 : Execution error
+2023-08-30T15:20:56.904345-04:00 : Execution error
+2023-08-30T15:20:56.913391-04:00 : Execution error
+2023-08-30T15:20:56.920134-04:00 : Execution error
+2023-08-30T15:20:56.93038-04:00 : Execution error
+2023-08-30T15:20:56.936076-04:00 : Execution error
+2023-08-30T15:20:56.941201-04:00 : Execution error
+2023-08-30T15:20:56.944627-04:00 : Execution error
+2023-08-30T15:20:56.949039-04:00 : Execution error
+2023-08-30T15:20:56.953146-04:00 : Execution error
+2023-08-30T15:20:56.957512-04:00 : Execution error
+2023-08-30T15:20:56.961589-04:00 : Execution error
+2023-08-30T15:22:57.218338-04:00 : there is object arguments
+2023-08-30T15:22:57.330721-04:00 : there is not alternative factory method
+2023-08-30T15:22:57.373104-04:00 : there is object arguments
+2023-08-30T15:22:57.400184-04:00 : there is object arguments
+2023-08-30T15:22:59.921656-04:00 : there is object arguments
+2023-08-30T15:23:00.232304-04:00 : there is not alternative factory method
+2023-08-30T15:23:00.278112-04:00 : there is not object besides target class
+2023-08-30T15:23:02.81085-04:00 : there is not object besides target class
+2023-08-30T15:23:02.874387-04:00 : there is object arguments
+2023-08-30T15:23:02.89055-04:00 : there is object arguments
+2023-08-30T15:23:05.206501-04:00 : there is object arguments
+2023-08-30T15:23:05.426356-04:00 : there is not object besides target class
+2023-08-30T15:23:05.495955-04:00 : there is not alternative factory method
+2023-08-30T15:23:08.113452-04:00 : there is object arguments

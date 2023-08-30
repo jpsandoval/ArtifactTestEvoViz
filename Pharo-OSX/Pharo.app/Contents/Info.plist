@@ -354,7 +354,7 @@
 	<key>CFBundleGetInfoString</key>
 	<string>CogVM VM 6.0-pre</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.0.202002121007</string>
+	<string>5.0.201901051900</string>
 	<key>CFBundleIconFile</key>
 	<string>Pharo.icns</string>
 	<key>CFBundleIdentifier</key>
@@ -368,7 +368,7 @@
 	<key>CFBundleSignature</key>
 	<string>FAST</string>
 	<key>CFBundleVersion</key>
-	<string>5.0.202002121007</string>
+	<string>5.0.201901051900</string>
 	<key>LSBackgroundOnly</key>
 	<false/>
 	<key>LSMinimumSystemVersion</key>
